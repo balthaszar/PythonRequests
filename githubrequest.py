@@ -1,7 +1,9 @@
+#127.0.0.1:5000
+
 import requests
 from flask import Flask, request
-CLIENT_ID = 'Iv1.db97587bf82ba315'
-CLIENT_SECRET = '4508b64c31c398eccad5e9d37d83bcee7ef539dd'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 GITHUB_TOKEN_URL = 'https://github.com/login/oauth/access_token'
 BASE_URL = 'https://api.github.com'
 
